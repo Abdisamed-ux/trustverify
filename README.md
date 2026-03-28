@@ -2,6 +2,21 @@
 
 A Python CLI tool for file integrity verification and RSA digital signatures.
 
+> Mini Project I — Information Security Course
+
+---
+
+## Team Members
+
+| Name | Student ID |
+|------|------------|
+| Abdisamed Ahmed Mohamud | 230208709 |
+| Suad Abdırahman | 220208783 |
+| Manar Algburi | 220208935 |
+| Fatima Yusuf | 220208865 |
+
+---
+
 ## Install
 
 ```bash
